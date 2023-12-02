@@ -9,3 +9,5 @@ You could download and install kit & kitctl by downloading one of the binaries f
 $ # The following script will install kit & kitctl in ./bin
 $ https://raw.githubusercontent.com/cloudproud/lab/main/install.sh | sh
 ```
+
+> 🚧 Check out our [documentation](https://cloudproud.dev/docs) for more information!
