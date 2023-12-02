@@ -1,4 +1,4 @@
-![Cloud Proud](https://github.com/cloudproud/lab/assets/3440116/9a92844f-15a6-45a1-9f75-5f26b56b8ee8)
+<img src="https://github.com/cloudproud/lab/assets/3440116/9a92844f-15a6-45a1-9f75-5f26b56b8ee8" width="250px" alt="Cloud Proud" />
 
 # Lab
 
