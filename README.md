@@ -11,3 +11,11 @@ $ https://raw.githubusercontent.com/cloudproud/lab/main/install.sh | sh
 ```
 
 > 🚧 Check out our [documentation](https://cloudproud.dev/docs) for more information!
+
+---
+
+```sh
+$ kit --insecure
+$ # The web interface is up and running at: http://localhost:5432
+$ # You could login-in using the default username and password kit:kitpw
+```
